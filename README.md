@@ -22,7 +22,7 @@
 Пользователь должен иметь возможность открыть клетку
 
 
-Диграммы:
+Диграммы:       
 1)Отметка клеток https://app.creately.com/d/wkfJyGIK518/view  
 2)Состояние клетки https://app.creately.com/d/lYgzj0oTtWX/view  
 3)Смена сложности https://app.creately.com/d/POZf9O6qGYI/view       
