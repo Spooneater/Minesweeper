@@ -25,5 +25,5 @@
 Диграммы:
 1)Отметка клеток https://app.creately.com/d/wkfJyGIK518/view  
 2)Состояние клетки https://app.creately.com/d/lYgzj0oTtWX/view  
-3)Смена сложности https://app.creately.com/d/POZf9O6qGYI/view 
+3)Смена сложности https://app.creately.com/d/POZf9O6qGYI/view       
 4)Работа таймера https://app.creately.com/d/4El3uoOk782/view  
